@@ -10,7 +10,8 @@ PMS-Dental facilitates efficient management of patient records by doctors and st
 
 ## Features
 
-    - OP Registration: Streamlined registration process for outpatient visits.
+     ### OP Registration:
+         Streamlined registration process for outpatient visits.
     - Appointment Scheduling: Easy-to-use interface for scheduling patient appointments.
     - Treatment Planning: Tools for creating and managing treatment plans.
     - Patient Records Management: Secure storage and retrieval of patient records.
